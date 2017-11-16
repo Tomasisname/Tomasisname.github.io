@@ -1,0 +1,52 @@
+header {
+      font-family: fantasy;
+      text-align: center;
+      background: url("https://lh3.google.com/u/0/d/1JsPgyTgO-0VlUGTDWpPbJgDl6PZxWm8b=w1464-h836-iv1");
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 30px;
+      padding: 5px;
+    }
+    img {
+      margin: 40px 4px 0px 0px;
+      border: 2px solid white;
+      border-radius: 00px;
+    }
+    ul {
+      padding: 10px;
+    }
+    li {
+      padding: 15px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+      color: white;
+      background-color: #364256;
+      text-align: left; 
+    }
+  body {
+    background: #364256;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+      li {
+        padding: 5px;
+        display: block;
+      }
+      h2 {
+        color: white;
+        font-size: 30px;
+
+      }
+      div {
+        text-align: center;
+      }
