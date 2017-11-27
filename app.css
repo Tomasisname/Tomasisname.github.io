@@ -4,7 +4,7 @@ header {
       background: url("https://lh3.google.com/u/0/d/1JsPgyTgO-0VlUGTDWpPbJgDl6PZxWm8b=w1464-h836-iv1");
       background-size: cover;
       color: white;
-      padding: 80px;
+      padding: 80px, 0px, 0px, 0px;
     }
     a {
       color: white;
